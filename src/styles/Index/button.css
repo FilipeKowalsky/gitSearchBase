@@ -1,0 +1,19 @@
+.button_profile{
+  background-color: var(--color-brand-2);
+  color: var(--color-grey-7);
+  font-size: var(--font-size-5);
+  height: 40px;
+  border: 1px solid var(--color-brand-2);
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.button_profile:hover{
+  background-color: var(--color-grey-1);
+  border: 1px solid var(--color-grey-7);
+}
+
+.button_profile:active{
+  background-color: var(--color-grey-2);
+  border: 1px solid var(--color-grey-7);
+}

@@ -1,0 +1,27 @@
+body{
+  background-color: var(--color-grey-2);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header{
+  width: 800px;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.profile_container{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.profile_container > img{
+  height: 90px;
+  border: 2px solid var(--color-brand-2);
+  border-radius: 50%;
+}

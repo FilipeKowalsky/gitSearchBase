@@ -1,0 +1,16 @@
+.title{
+  font-size: var(--font-size-1);
+  font-weight: var(--font-weight-1);
+  color: var(--color-grey-7);
+}
+
+.text{
+  font-size: var(--font-size-4);
+  font-weight: var(--font-weight-4);
+  color: var(--color-grey-7);
+  line-height: var(--line-height-1);
+}
+
+.text_negrito{
+  font-weight: var(--font-weight-2);
+}

@@ -1,0 +1,17 @@
+.title_primary{
+  font-size: var(--font-size-2);
+  font-weight: var(--font-weight-1);
+  color: var(--color-grey-7);
+}
+
+.title_secondary{
+  font-size: var(--font-size-3);
+  font-weight: var(--font-weight-3);
+  color: var(--color-grey-7);
+}
+
+.text{
+  font-size: var(--font-size-5);
+  font-weight: var(--font-weight-3);
+  color: var(--color-grey-8);
+}
